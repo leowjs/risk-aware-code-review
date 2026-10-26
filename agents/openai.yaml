@@ -1,0 +1,4 @@
+interface:
+  display_name: "Risk-aware Code Review"
+  short_description: "Review code with evidence and proportionate checks"
+  default_prompt: "Use $risk-aware-code-review to review this diff and report verified issues, checks run, residual risk, and rollback options."
